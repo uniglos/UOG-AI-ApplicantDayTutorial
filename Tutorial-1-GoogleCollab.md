@@ -1,5 +1,4 @@
-![UOG Logo](IMG-All/uoglogo.jpg)
-
+![UOG Logo](IMG-All/uoglogo.png)
 ![Head](IMG-All/Tutorial-1/head.png)
 
 This first tutorial will take you through the steps you need to take in order to get a Google Collab Notebook up and Running.
