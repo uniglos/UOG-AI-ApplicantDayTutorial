@@ -1,4 +1,3 @@
-![UOG Logo](IMG-All/uoglogo.png)
 ![Head](IMG-All/Tutorial-1/head.png)
 
 This first tutorial will take you through the steps you need to take in order to get a Google Collab Notebook up and Running.
@@ -53,3 +52,11 @@ Your Notebook will be created with a Code cell by default, you can add extra cel
 You can move cells either Up or Down by clicking on the Cell and using the Cell Controls which display on the right side of the cell.
 
 ![8](IMG-All/Tutorial-1/8.PNG)
+
+
+# Next Part
+Move on to the next tutorial!
+
+![Tasterheader](IMG-All/uoglogo.png)
+
+

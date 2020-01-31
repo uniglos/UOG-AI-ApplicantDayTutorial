@@ -1,11 +1,10 @@
-![UOG Logo](IMG-All/uoglogo.png)
 ![Tasterheader](IMG-All/tasterheader.png)
 
-Welcome to the Taster session for the BSc Applied Artificial Intelligence course at the University of Gloucestershire! This session will give you the chance to get a taste of what it's like to be a student here.
+Welcome to the Taster session for the **BSc Applied Artificial Intelligence** course at the **University of Gloucestershire**! This session will give you the chance to get a taste of what it's like to be a student here.
 You'll be able to meet some of your future lecturers, current students and other applicants who have also been offered a place on your course!
 
-This GitHub Repository will take you through the steps you need to go through to create your own Dog Breed image classifier.
-We will do this using Google collab, Python Notebooks and the FastAI library.
+This GitHub Repository will take you through the steps you need to go through to create your own Dog Breed Image classifier using Machine Learning.
+We will do this using Google Colab, Python Notebooks and the FastAI library.
 
 ## Contact Points
 After the session, if you have any questions that you forgot to ask, feel free to email the following people with any queries regarding the BSc Applied Artificial Intelligence Course:
@@ -32,3 +31,5 @@ Books listed are available via the Library.
 - Book X - Chapters/Pages [X-Y]
 - Book X - Chapters/Pages [X-Y]
 - Book X - Chapters/Pages [X-Y]
+
+![Tasterheader](IMG-All/uoglogo.png)
