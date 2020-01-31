@@ -1,19 +1,30 @@
 ![UOG Logo](IMG-All/uoglogo.jpg)
-# CT40XX - Week X - Tutorial
-Welcome to your XXXXXXXXX Tutorial Repository for CT40XX Introduction to Artificial Intelligence! This is your own personal repository where you and only you can see and make changes.
 
-We will be using GitHub Classrooms for most tutorials and Assignment submissions during this module, so it might be a good idea to brush up on your Git skills in your independant learning hours.
+![Tasterheader](IMG-All/tasterheader.png)
 
-Below are a list of tutorials, these are not assessed but you are expected to complete each of them either in the practical session of the lecture or in your own time, they may seem simple, but they focus on building your skills from the ground up and will teach you the skills which the Assignments for this module are marked upon.
+Welcome to the Taster session for the BSc Applied Artificial Intelligence course at the University of Gloucestershire! 
 
-This weeks tutorials will show you how to run Python code outside of Jupyter Notebook alongside some Python Exercises to test your knowledge from today's session.
+This GitHub Repository will take you through the steps you need to go through to create your own Dog Breed image classifier.
+We will do this using Google collab, Python Notebooks and the FastAI library.
+
+## Contact Points
+After the session, if you have any questions that you forgot to ask, feel free to email the following people with any queries regarding the BSc Applied Artificial Intelligence Course:
+
+- **Dr. Will Sayers** : [wsayers@glos.ac.uk](mailto:wsayers@glos.ac.uk)
+- **Daniel McCluskey** : [dmccluskey1@glos.ac.uk](mailto:dmccluskey1@glos.ac.uk)
 
 ## Tutorials
 List of tutorials for this session:
 
-1. [XXXXX](README.md)
-2. [XXXXX](README.md)
-3. [XXXXX](README.md)
+1. [Signing up to Google Collab](README.md)
+2. [Creating a Python Notebook](README.md)
+3. [Importing FastAI](README.md)
+4. [Creating your Classifier](README.md)
+5. [Questions](README.MD)
+ 
+
+## Other Activities
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam leo neque, lobortis eget tincidunt at, viverra elementum ipsum. Donec congue quam a risus ultricies, ac imperdiet massa tincidunt. Nullam a rutrum ligula. Nulla eu facilisis enim, tempus sagittis erat. Pellentesque justo turpis, dictum nec purus eu, bibendum maximus enim. Aliquam sit amet lorem eget lacus ullamcorper tristique. Praesent viverra maximus tellus. Maecenas sed leo sit amet libero facilisis gravida sed eu enim. Aenean dignissim dolor leo. Integer a posuere urna, et sodales ipsum. Nulla semper, turpis aliquam commodo facilisis, lectus risus scelerisque lectus, nec feugiat ligula diam in magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin aliquam metus eget risus vehicula, vel venenatis lorem maximus.
 
 ## Recommended Reading
 Books listed are available via the Library.
