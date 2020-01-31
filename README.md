@@ -16,8 +16,7 @@ After the session, if you have any questions that you forgot to ask, feel free t
 ## Tutorials
 List of tutorials for this session:
 
-1. [Signing up to Google Collab](README.md)
-2. [Creating a Python Notebook](README.md)
+1. [Google Colab and Python Notebooks Introduction](Tutorial-1-GoogleCollab.md)
 3. [Importing FastAI](README.md)
 4. [Creating your Classifier](README.md)
 5. [Questions](README.MD)
