@@ -55,7 +55,8 @@ You can move cells either Up or Down by clicking on the Cell and using the Cell 
 
 
 # Next Part
-Move on to the next tutorial!
+[Move on to the next tutorial!](Tutorial-2-RunningSomeCode.md)
+
 
 ![Tasterheader](IMG-All/uoglogo.png)
 
