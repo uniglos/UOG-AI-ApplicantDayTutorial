@@ -1,20 +1,59 @@
-![Head](IMG-All/Tutorial-1/head.png)
+﻿![Head](IMG-All/Tutorial-1/head.png)
 
 This second tutorial will quickly run through how to run code and some of the basics of Python!
 
 # Python
 
 ### What is Python?
+Python is a popular programming language and was Created by Guido van Rossum in 1991.​
 
-### Why are we using it?
+It is used for:​
+
+- Server side Website development​
+- Software Development​
+- Data analysis​
+  - Good at handling large sets of data​
+- Machine Learning​
 
 ### Using Python
+To use and run Python code we can create and write into a code cell! If we just write `print(5+5)` and run the cell (Click the play button when the cell is highlighted), it will give us an output of 10 as seen below!
+
+![A](IMG-All/Tutorial-2/a.PNG)
 
 ### Variables
+A variable stores one or more data values.​ They can store:
 
-# FastAI
-Fast AI is a Deep Learning Python Library designed to *make Neural Networks uncool again*. By this they mean to make deep learning as accessible as possible to people without programming degrees and access to large datasets.
-![Fastai](IMG-All/Tutorial-2/fastai.jpg)
+- Numbers
+  - Integers (Whole Numbers) e.g. `256`
+  - Floats (Fractional Numbers) e.g. `65.3124`
+- Strings (Letters and Words) e.g. `"Hello"`
+- Booleans (True or False)
+- Objects​ (Classes, Structs, Lists etc.)
+
+To assign a variable we need to declare a variable name and what is stored inside of it. The example below shows me declaring a variable called `bounce_count` and giving it a value of `65`.
+
+```python
+bounce_count = 65
+```
+
+The same goes for the other variable types:
+
+```python
+variable_A = True
+variable_B = "Hello with double quotes"
+variable_C = 'Hello with single quotes'
+variable_D = 5232.2432435
+```
+
+We can then use these variables to operate on, in the example below we add together `variable_A` and `variable_B` and store the value inside of `variable_C`!:
+
+```python
+variable_A = 5
+variable_B = 25
+variable_C = variable_A + variable_B
+```
+
+But for this tutorial we don't really need to get into the nitty gritty stuff, Lets move on.
 
 # Getting Started
 
@@ -36,6 +75,10 @@ Delete the cells that you have created in your Google Colab notebook and then **
 %autoreload 2
 %matplotlib inline
 ```
+
+# FastAI
+Fast AI is a Deep Learning Python Library designed to *make Neural Networks uncool again*. By this they mean to make deep learning as accessible as possible to people without programming degrees and access to large datasets.
+![Fastai](IMG-All/Tutorial-2/fastai.jpg)
 
 ### Importing FastAI
 Google Colab has many libraries freely available to us, so instead of having to go through the tedious task of installing libraries, we just need to **make a code cell** and type the following in to it:
@@ -146,6 +189,6 @@ Which will give us an Output similar to:
 ![5](IMG-All/Tutorial-2/5.PNG)
 
 # Next Tutorial!
-Now you can [move on to the next tutorial](Tutorial-3-LearningFromOurData), where we will actually Train a model from the `ImageDataBunch` that we have just created!
+Now you can [move on to the next tutorial](Tutorial-3-LearningFromOurData.md), where we will actually Train a model from the `ImageDataBunch` that we have just created!
 
 ![Tasterheader](IMG-All/uoglogo.png)

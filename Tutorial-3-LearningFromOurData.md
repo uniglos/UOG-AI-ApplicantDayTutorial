@@ -61,8 +61,33 @@ This will give you a Matrix Graph with all of the Pet Breeds on each axis. The l
 Then the wrong guesses are scattered around (I've highlighted some in red in the image below).
 
 ![2](IMG-All/Tutorial-3/2.PNG)
-##
-# Next Tutorial!
-Now you can move on to the next tutorial, where we will actually Train a model from the `ImageDataBunch` that we have just created!
+
+### Top losses viewer
+We can also see the images that had the highest loss values:
+
+```python
+learner_interpretation.plot_top_losses(9, figsize=(15,11))
+```
+
+![3](IMG-All/Tutorial-3/3.PNG)
+
+### Most Confused List
+Or we can even just grab a list of the most confused breeds:
+
+```python
+learner_interpretation.most_confused(min_val=2)
+```
+
+Which should give you an output like the following image:
+
+![4](IMG-All/Tutorial-3/4.PNG)
+
+## Whats next?
+The next step of this process would be to refine your model to get an even lower model rate, which can be achieved in many ways such as using different Resnet models or even just training you model for more epochs!
+Once trained, the model can be exported and used for external use such as in a tool or even a mobile app, some examples of Mobile apps that have used FastAI are listed below.
+
+- [Not Hotdog](https://github.com/gardnmi/not_hotdog/blob/master/not_hotdog.ipynb) : An app that uses FastAI to recreate the "Not Hotdog" app featured in the TV Show "Silicon Valley"
+-
+-
 
 ![Tasterheader](IMG-All/uoglogo.png)

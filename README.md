@@ -16,20 +16,15 @@ After the session, if you have any questions that you forgot to ask, feel free t
 List of tutorials for this session:
 
 1. [Google Colab and Python Notebooks Introduction](Tutorial-1-GoogleCollab.md)
-3. [Importing FastAI](README.md)
-4. [Creating your Classifier](README.md)
-5. [Questions](README.MD)
- 
+3. [Importing FastAI](Tutorial-2-RunningSomeCode.md)
+4. [Creating your Classifier](Tutorial-3-LearningFromOurData.md)
 
-## Other Activities
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam leo neque, lobortis eget tincidunt at, viverra elementum ipsum. Donec congue quam a risus ultricies, ac imperdiet massa tincidunt. Nullam a rutrum ligula. Nulla eu facilisis enim, tempus sagittis erat. Pellentesque justo turpis, dictum nec purus eu, bibendum maximus enim. Aliquam sit amet lorem eget lacus ullamcorper tristique. Praesent viverra maximus tellus. Maecenas sed leo sit amet libero facilisis gravida sed eu enim. Aenean dignissim dolor leo. Integer a posuere urna, et sodales ipsum. Nulla semper, turpis aliquam commodo facilisis, lectus risus scelerisque lectus, nec feugiat ligula diam in magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin aliquam metus eget risus vehicula, vel venenatis lorem maximus.
+## Things to Try at home
+Here are some helpful links that will give you some more knowledge on the subjects we have gone through today.
 
-## Recommended Reading
-Books listed are available via the Library.
-
-- Book X - Chapters/Pages [X-Y]
-- Book X - Chapters/Pages [X-Y]
-- Book X - Chapters/Pages [X-Y]
-- Book X - Chapters/Pages [X-Y]
+- [FastAI Website](https://www.fast.ai/)
+- [Kaggle Python Tutorial](https://www.kaggle.com/learn/python)
+- [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [Code Academy Python Tutorial](https://www.codecademy.com/catalog/language/python)
 
 ![Tasterheader](IMG-All/uoglogo.png)
