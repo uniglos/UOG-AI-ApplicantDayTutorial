@@ -1,4 +1,4 @@
-﻿![Head](IMG-All/Tutorial-1/head.png)
+﻿![Head](IMG-All/Tutorial-2/head.png)
 
 This second tutorial will quickly run through how to run code and some of the basics of Python!
 

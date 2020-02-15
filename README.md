@@ -26,5 +26,8 @@ Here are some helpful links that will give you some more knowledge on the subjec
 - [Kaggle Python Tutorial](https://www.kaggle.com/learn/python)
 - [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [Code Academy Python Tutorial](https://www.codecademy.com/catalog/language/python)
+- [Introduction to GitHub](https://guides.github.com/activities/hello-world/)
+- [Python Notebook Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+- [Introduction to SSH](https://www.hostinger.co.uk/tutorials/ssh-tutorial-how-does-ssh-work)
 
 ![Tasterheader](IMG-All/uoglogo.png)

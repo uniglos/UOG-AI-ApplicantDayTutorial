@@ -1,4 +1,4 @@
-![Head](IMG-All/Tutorial-1/head.png)
+![Head](IMG-All/Tutorial-3/head.png)
 
 This third part will go over training a Deep Learning Model to differentiate the different pets and breeds from our image dataset. We won't go much into how it works due to time constraints on the Offer Holder Day.
 
