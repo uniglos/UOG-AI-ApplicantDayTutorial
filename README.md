@@ -16,8 +16,8 @@ After the session, if you have any questions that you forgot to ask, feel free t
 List of tutorials for this session:
 
 1. [Google Colab and Python Notebooks Introduction](Tutorial-1-GoogleCollab.md)
-3. [Importing FastAI](Tutorial-2-RunningSomeCode.md)
-4. [Creating your Classifier](Tutorial-3-LearningFromOurData.md)
+3. [Running Python code and Importing FastAI](Tutorial-2-RunningSomeCode.md)
+4. [Interpreting your results](Tutorial-3-LearningFromOurData.md)
 
 ## Things to Try at home
 Here are some helpful links that will give you some more knowledge on the subjects we have gone through today.
