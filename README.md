@@ -10,12 +10,12 @@ We will do this using Google Colab, Python Notebooks and the FastAI library.
 After the session, if you have any questions that you forgot to ask, feel free to email the following people with any queries regarding the BSc Applied Artificial Intelligence Course:
 
 - **Dr. Will Sayers** : [wsayers@glos.ac.uk](mailto:wsayers@glos.ac.uk)
-- **Daniel McCluskey** : [dmccluskey1@glos.ac.uk](mailto:dmccluskey1@glos.ac.uk)
+- **Richard Cook** : [rcook@glos.ac.uk](mailto:rcook@glos.ac.uk)
 
 ## Tutorials
 List of tutorials for this session:
 
-1. [Google Colab Activity](https://colab.research.google.com/drive/11eKNC2xuJGvnbvTc6ux613QWszXPpOLS#scrollTo=jD2HjilnLztW)
+1. [Google Colab Activity](https://colab.research.google.com/drive/1_XPfoUHe_J_-oEf_m1_1XhvmLBYdoo5K?usp=sharing)
 
 ## Things to Try at home
 Here are some helpful links that will give you some more knowledge on the subjects we have gone through today.
