@@ -16,7 +16,7 @@ After the session, if you have any questions that you forgot to ask, feel free t
 ## Tutorials
 List of tutorials for this session:
 
-1. [Google Colab Activity](https://colab.research.google.com/drive/1_XPfoUHe_J_-oEf_m1_1XhvmLBYdoo5K?usp=sharing)
+1. [Google Colab Activity](https://colab.research.google.com/drive/1c50-i7OYwFBamkenzPIt4LwtLSsy97Qz?usp=sharing)
 
 ## Things to Try at home
 Here are some helpful links that will give you some more knowledge on the subjects we have gone through today.
