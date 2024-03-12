@@ -11,6 +11,7 @@ After the session, if you have any questions that you forgot to ask, feel free t
 
 - **Dr. Will Sayers** : [wsayers@glos.ac.uk](mailto:wsayers@glos.ac.uk)
 - **Richard Cook** : [rcook@glos.ac.uk](mailto:rcook@glos.ac.uk)
+- **Usama Shahid** : [ushahid7@glos.ac.uk](mailto:ushahid7@glos.ac.uk)
 
 ## Tutorials
 List of tutorials for this session:
