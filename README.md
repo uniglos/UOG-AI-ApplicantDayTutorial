@@ -1,6 +1,6 @@
 ![Tasterheader](IMG-All/tasterheader.png)
 
-Welcome to the Taster session for the **BSc Applied Artificial Intelligence** course at the **University of Gloucestershire**! This session will give you the chance to get a taste of what it's like to be a student here.
+Welcome to the Taster session for the **BSc Artificial Intelligence** course at the **University of Gloucestershire**! This session will give you the chance to get a taste of what it's like to be a student here.
 You'll be able to meet some of your future lecturers, current students and other applicants who have also been offered a place on your course!
 
 This GitHub Repository will take you through the steps you need to go through to create your own Dog Breed Image classifier using Machine Learning.
