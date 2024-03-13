@@ -170,7 +170,7 @@ file_name_reg_expression = r'/([^/]+)_\d+.jpg$'
 To be able to work on our data set and learn from it, we will need to turn it into an `ImageDataBunch`, which can be done with:
 
 ```python
-data = ImageDataBunch.from_name_re(path_images, file_names, file_name_reg_expression, ds_tfms = get_transforms(), size = 224, bs = bs).normalize(imagenet_stats)
+data = ImageDataBunch.from_name_re(path_images, file_names, file_name_reg_expression, size = 224, bs = bs).normalize(imagenet_stats)
 ```
 
 - We first pass through our Images path so that the Data bunch has a reference to the actual image files
